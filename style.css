@@ -53,8 +53,8 @@ a{
 
 a:hover{
     color: grey;
-    text-decoration: underline;
-    text-underline-offset: 0.5rem;
+    /* text-decoration: underline; */
+    /* text-underline-offset: 0.25rem; */
     text-decoration-color: rgb(185, 185, 185);
 }
 
